@@ -1,0 +1,21 @@
+.container {
+    padding-top:2rem;
+  }
+  img {
+    -webkit-transition: all 0.2s ease-out; /* Safari */
+      transition: all 0.2s ease-out;
+  }
+  video {
+    border-radius:2px;
+     max-width:100%;
+    display:none;
+    margin:auto;
+    -webkit-transition: all 0.2s ease-out; /* Safari */
+      transition: all 0.2s ease-out;
+  }
+  div.video:hover video, div.video:hover img{
+    -ms-transform: scale(1.2); /* IE 9 */
+      -webkit-transform: scale(1.2); /* Safari */
+      transform: scale(1.2);
+  }
+  

@@ -10,7 +10,7 @@ This was my first attempt at HTML, CSS, and Bootstrap in a project to make a fak
 ------------------
 How to View
 ------------------
-Download the entire repository, unzip, and open the files. 
+Download the entire repository, unzip, and open the HTML pages to view them.
 
 --------------------------------
 Shortcomings and what I learned
@@ -21,5 +21,9 @@ For one, initially I created a single style sheet to work with all my pages, whi
 
 Some of the designs I made were scrapped by my team and ultimately never made it into our final "fake product", but I've uploaded them here. 
 
+--------------------------------
+Disclaimer
+--------------------------------
+I did not make the video tiles on "home-page.html" and the friend boxes in "MySubscription.html". They were found on tutorials and I put them in as prototypes while working. Everything else is my work. 
 
 
